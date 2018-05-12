@@ -18,6 +18,8 @@ creator:
     - http://en.wikipedia.org/wiki/Théophile_Gautier
     - http://fr.wikipedia.org/wiki/Th%C3%A9ophile_Gautier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45886#Po-sies-Compl-tes---Tome-2
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2014-06-05'
 gutenberg_type: Text
